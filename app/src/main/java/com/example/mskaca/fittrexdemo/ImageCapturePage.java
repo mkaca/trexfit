@@ -46,5 +46,6 @@ public class ImageCapturePage extends AppCompatActivity {
         Bitmap bitmap = (Bitmap)data.getExtras().get("data");
         btnCamera.setTextColor(Color.parseColor("#FF0F0F")); //custom color
         imageView.setImageBitmap(bitmap);
+        imageView.setRotation(90);
     }
 }
