@@ -2,4 +2,6 @@
     <string name="app_name">FitTrex Demo</string>
     <string name="action_settings">Settings</string>
     <string name="photo">Take Picture</string>
+    <string name="action_favorite"> Test 1</string>
+    <string name="title_activity_menu_testing">MenuTestingActivity</string>
 </resources>
